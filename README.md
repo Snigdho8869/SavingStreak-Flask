@@ -7,6 +7,7 @@ SavingStreak comes with the following features:
 * Add expenses transactions, with the ability to categorize them.
 * Set savings goals and track progress.
 * View expense and savings summaries.
+* User registration, login, password reset.
 * User authentication and data privacy.
 * Responsive design for desktop and mobile devices.
 
@@ -40,7 +41,19 @@ SavingStreak is built using the following technologies:
   </tr>
 </table>
 
+# Database
+<br>
+users: <br>
 
+first_name, last_name, username, password, favorite_number, cash, bank, savings, credit_cards, email, picture, lifetime_balance ,lifetime_spending 
+
+expenses: <br>
+
+username, date, category, amount
+
+goals: <br>
+
+username, goal_name, need_amount, savings_amount, goal_status
 
 # Contributing
 If you'd like to contribute to SavingStreak, please feel free to submit a pull request with your changes. Before submitting a pull request, please make sure your changes are fully tested and follow the existing code style.
