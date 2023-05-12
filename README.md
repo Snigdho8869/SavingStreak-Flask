@@ -1,2 +1,47 @@
 # SavingStreak-Flask
-SavingStreak: A Flask-based expense tracker web app to monitor expenses, savings, and goals using HTML, CSS, and JavaScript.
+SavingStreak is a Flask-based web application that helps you track your expenses, savings, and financial goals. The application provides an intuitive interface for adding and managing your transactions, and it allows you to visualize your progress towards your savings and goals.
+
+# Features
+SavingStreak comes with the following features:
+
+* Add expenses transactions, with the ability to categorize them.
+* Set savings goals and track progress.
+* View expense and savings summaries.
+* User authentication and data privacy.
+* Responsive design for desktop and mobile devices.
+
+# Technologies Used
+SavingStreak is built using the following technologies:
+
+* Flask
+* HTML
+* CSS
+* JavaScript
+* Chart.js
+* MySQL
+
+# Aplication Interface
+<br>
+<table>
+  <tr>
+    <td><img src="https://i.ibb.co/b1y40fg/Screenshot-1.png"></td>
+    <td><img src="https://i.ibb.co/RQXyRBS/Screenshot-2.png"></td>
+    <td><img src="https://i.ibb.co/ccBBRC2/Screenshot-3.png"></td>
+  </tr>
+  <tr>
+    <td><img src="https://i.ibb.co/hF9hr3P/Screenshot-4.png"></td>
+    <td><img src="https://i.ibb.co/Bzqjvx5/Screenshot-5.png"></td>
+    <td><img src="https://i.ibb.co/Kh6rdK8/Screenshot-6.png"></td>
+  </tr>
+  <tr>
+    <td><img src="https://i.ibb.co/tsGrZVz/Screenshot-7.png"></td>
+    <td><img src="image8.jpg"></td>
+    <td><img src="image9.jpg"></td>
+  </tr>
+</table>
+
+
+
+# Contributing
+If you'd like to contribute to SavingStreak, please feel free to submit a pull request with your changes. Before submitting a pull request, please make sure your changes are fully tested and follow the existing code style.
+
