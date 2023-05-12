@@ -45,6 +45,7 @@ SavingStreak is built using the following technologies:
 <br>
 users: <br>
 
+
 first_name, last_name, username, password, favorite_number, cash, bank, savings, credit_cards, email, picture, lifetime_balance ,lifetime_spending 
 
 expenses: <br>
