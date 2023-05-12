@@ -20,7 +20,7 @@ SavingStreak is built using the following technologies:
 * Chart.js
 * MySQL
 
-# Aplication Interface
+# Application Interface
 <br>
 <table>
   <tr>
